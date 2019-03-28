@@ -7,4 +7,4 @@ jdk:
 
 script:
   - ./gradlew build --scan -s
-  - gradle test
+  - ./gradlew test
